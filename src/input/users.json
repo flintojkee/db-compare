@@ -1,0 +1,56 @@
+[
+    {
+        "id": 0,
+        "first_name": "Phoebe",
+        "last_name": "Russell",
+        "gender": "female",
+        "email": "phoeberussell@xth.com",
+        "password": "929fa434-946a-470d-bb1f-beda84634e6c",
+        "city_id": 3
+    },
+    {
+        "id": 1,
+        "first_name": "Deana",
+        "last_name": "Molina",
+        "gender": "female",
+        "email": "deanamolina@xth.com",
+        "password": "db58e1ed-7389-494c-9b08-d6206a0970f1",
+        "city_id": 3
+    },
+    {
+        "id": 2,
+        "first_name": "Cooke",
+        "last_name": "Harper",
+        "gender": "male",
+        "email": "cookeharper@xth.com",
+        "password": "08d6193f-25b8-41b5-b63c-77777650b209",
+        "city_id": 3
+    },
+    {
+        "id": 3,
+        "first_name": "Mcconnell",
+        "last_name": "Kane",
+        "gender": "male",
+        "email": "mcconnellkane@xth.com",
+        "password": "ae38dc22-d43b-4276-b118-67c8deb5ffb2",
+        "city_id": 1
+    },
+    {
+        "id": 4,
+        "first_name": "Ella",
+        "last_name": "Olsen",
+        "gender": "female",
+        "email": "ellaolsen@xth.com",
+        "password": "8ba628bd-4039-4434-8deb-1f8317add36d",
+        "city_id": 4
+    },
+    {
+        "id": 5,
+        "first_name": "Finch",
+        "last_name": "Whitehead",
+        "gender": "male",
+        "email": "finchwhitehead@xth.com",
+        "password": "8686cab7-e64d-4de7-8c71-967279a0ea7a",
+        "city_id": 1
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "company_id": 0,
+        "name": "Housedown"
+    },
+    {
+        "company_id": 1,
+        "name": "Sloganaut"
+    },
+    {
+        "company_id": 2,
+        "name": "Ohmnet"
+    },
+    {
+        "company_id": 3,
+        "name": "Marqet"
+    },
+    {
+        "company_id": 4,
+        "name": "Virva"
+    },
+    {
+        "company_id": 5,
+        "name": "Google"
+    }
+]

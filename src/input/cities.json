@@ -1,0 +1,22 @@
+[
+    {
+        "city_id": 1,
+        "name": "Kyiv",
+        "country_id": 226
+    },
+    {
+        "city_id": 2,
+        "name": "London",
+        "country_id": 228
+    },
+    {
+        "city_id": 3,
+        "name": "New York",
+        "country_id": 229
+    },
+    {
+        "city_id": 4,
+        "name": "Harare",
+        "country_id": 242
+    }
+]

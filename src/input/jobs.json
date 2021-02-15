@@ -1,0 +1,162 @@
+[
+    {
+        "job_id": 0,
+        "user_id": 3,
+        "company_id": 4,
+        "position": "officia fugiat",
+        "start": 2004,
+        "end": 2008
+    },
+    {
+        "job_id": 1,
+        "user_id": 5,
+        "company_id": 0,
+        "position": "est aliqua",
+        "start": 2000,
+        "end": 2005
+    },
+    {
+        "job_id": 2,
+        "user_id": 5,
+        "company_id": 0,
+        "position": "enim voluptate",
+        "start": 2002,
+        "end": 2009
+    },
+    {
+        "job_id": 3,
+        "user_id": 5,
+        "company_id": 1,
+        "position": "consectetur est",
+        "start": 2003,
+        "end": 2006
+    },
+    {
+        "job_id": 4,
+        "user_id": 1,
+        "company_id": 5,
+        "position": "qui pariatur",
+        "start": 2004,
+        "end": 2005
+    },
+    {
+        "job_id": 5,
+        "user_id": 3,
+        "company_id": 0,
+        "position": "do anim",
+        "start": 2002,
+        "end": 2008
+    },
+    {
+        "job_id": 6,
+        "user_id": 5,
+        "company_id": 3,
+        "position": "ea sit",
+        "start": 2002,
+        "end": 2006
+    },
+    {
+        "job_id": 7,
+        "user_id": 2,
+        "company_id": 0,
+        "position": "officia cupidatat",
+        "start": 2000,
+        "end": 2008
+    },
+    {
+        "job_id": 8,
+        "user_id": 2,
+        "company_id": 3,
+        "position": "ut Lorem",
+        "start": 2002,
+        "end": 2006
+    },
+    {
+        "job_id": 9,
+        "user_id": 2,
+        "company_id": 5,
+        "position": "labore minim",
+        "start": 2002,
+        "end": 2009
+    },
+    {
+        "job_id": 10,
+        "user_id": 5,
+        "company_id": 2,
+        "position": "mollit sint",
+        "start": 2000,
+        "end": 2006
+    },
+    {
+        "job_id": 11,
+        "user_id": 3,
+        "company_id": 4,
+        "position": "amet ullamco",
+        "start": 2004,
+        "end": 2008
+    },
+    {
+        "job_id": 12,
+        "user_id": 3,
+        "company_id": 3,
+        "position": "id veniam",
+        "start": 2000,
+        "end": 2008
+    },
+    {
+        "job_id": 13,
+        "user_id": 3,
+        "company_id": 1,
+        "position": "ex magna",
+        "start": 2000,
+        "end": 2007
+    },
+    {
+        "job_id": 14,
+        "user_id": 4,
+        "company_id": 0,
+        "position": "commodo eu",
+        "start": 2001,
+        "end": 2006
+    },
+    {
+        "job_id": 15,
+        "user_id": 2,
+        "company_id": 0,
+        "position": "consequat sit",
+        "start": 2000,
+        "end": 2005
+    },
+    {
+        "job_id": 16,
+        "user_id": 5,
+        "company_id": 2,
+        "position": "laborum cillum",
+        "start": 2004,
+        "end": 2005
+    },
+    {
+        "job_id": 17,
+        "user_id": 3,
+        "company_id": 2,
+        "position": "non anim",
+        "start": 2004,
+        "end": 2008
+    },
+    {
+        "job_id": 18,
+        "user_id": 5,
+        "company_id": 1,
+        "position": "nulla consectetur",
+        "start": 2002,
+        "end": 2006
+    },
+    {
+        "job_id": 19,
+        "user_id": 2,
+        "company_id": 0,
+        "position": "proident ut",
+        "start": 2003,
+        "end": 2005
+    }
+]
