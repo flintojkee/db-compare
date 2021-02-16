@@ -11,7 +11,10 @@
   "author": "Aritra Das",
   "license": "ISC",
   "dependencies": {
+    "@google-cloud/firestore": "^4.9.3",
     "chalk": "^4.1.0",
+    "firebase": "^8.2.7",
+    "firebase-admin": "^9.5.0",
     "pg": "^8.2.1"
   },
   "devDependencies": {
